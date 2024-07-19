@@ -246,7 +246,7 @@ textarea {
 
 img {
   height: auto;
-  max-width: 100%;
+  max-width: 90%;
   vertical-align: middle;
   -ms-interpolation-mode: bicubic;
 }
@@ -676,7 +676,7 @@ input[type=reset]:hover,
 input[type=submit]:focus,
 input[type=submit]:hover {
   outline: 0;
-  background: #21E786;
+  background: #fd1900;
   color: #fff;
 }
 
@@ -1053,8 +1053,8 @@ a:hover, a:focus {
   --primary-color8: #141B22;
   --primary-color9: #fff;
   --primary-color10: #141B22;
-  --primary-color11: #21E786;
-  --primary-color12: #21E786;
+  --primary-color11: #fd1900;
+  --primary-color12: #fd1900;
   --primary-color13: #fff;
   --primary-color14: #fff;
   --primary-color15: transparent;
@@ -2069,7 +2069,7 @@ header.absolute {
   color: #fff;
 }
 .footer.style-2 .social-item li:hover {
-  background-color: #21E786;
+  background-color: #fd1900;
   cursor: pointer;
 }
 .footer.style-2 .footer-inner {

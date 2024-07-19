@@ -1558,7 +1558,8 @@
   display: -ms-flexbox;
   display: -webkit-flex;
   margin-left: 0;
-  height: 532px;
+  margin-top: 8rem;
+  height: 600px;
   overflow: hidden;
 }
 .tf-slider-item .content-right .content-slide .mr25 {
